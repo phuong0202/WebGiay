@@ -1,0 +1,38 @@
+C:\Users\Admin\Desktop\WEB\LamLaiTuDau\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.deps.json
+C:\Users\Admin\Desktop\WEB\LamLaiTuDau\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Desktop\WEB\LamLaiTuDau\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.pdb
+C:\Users\Admin\Desktop\WEB\LamLaiTuDau\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WEB\LamLaiTuDau\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WEB\LamLaiTuDau\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Desktop\WEB\LamLaiTuDau\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.pdb
+C:\Users\Admin\Desktop\WebEnglish\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.deps.json
+C:\Users\Admin\Desktop\WebEnglish\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Desktop\WebEnglish\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.pdb
+C:\Users\Admin\Desktop\WebEnglish\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WebEnglish\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WebEnglish\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Desktop\WebEnglish\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.pdb
+C:\Users\Admin\Desktop\WEB\WebEnglish\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.deps.json
+C:\Users\Admin\Desktop\WEB\WebEnglish\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Desktop\WEB\WebEnglish\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.pdb
+C:\Users\Admin\Desktop\WEB\WebEnglish\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WEB\WebEnglish\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WEB\WebEnglish\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Desktop\WEB\WebEnglish\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.pdb
+C:\Users\Admin\Desktop\WEB\WebEnglish\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WebEnglish-master\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.deps.json
+C:\Users\Admin\Desktop\WebEnglish-master\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Desktop\WebEnglish-master\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.pdb
+C:\Users\Admin\Desktop\WebEnglish-master\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WebEnglish-master\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WebEnglish-master\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Desktop\WebEnglish-master\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.pdb
+C:\Users\Admin\Desktop\WebEnglish-master\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WebGiay-master - nopkosua\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.deps.json
+C:\Users\Admin\Desktop\WebGiay-master - nopkosua\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Desktop\WebGiay-master - nopkosua\CleanArchitecture.Domain\bin\Debug\netcoreapp3.0\CleanArchitecture.Domain.pdb
+C:\Users\Admin\Desktop\WebGiay-master - nopkosua\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WebGiay-master - nopkosua\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WebGiay-master - nopkosua\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WebGiay-master - nopkosua\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Desktop\WebGiay-master - nopkosua\CleanArchitecture.Domain\obj\Debug\netcoreapp3.0\CleanArchitecture.Domain.pdb
